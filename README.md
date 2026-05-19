@@ -202,13 +202,4 @@ See [`CLUSTER_RUN.md`](CLUSTER_RUN.md) for the exact commands.
 Code authorship is verifiable via the comment headers on every cell
 and script section.
 
----
 
-## spark-submit Terminal Output (Task 11)
-
-The full `yarn logs` excerpt is in [`output/spark_submit/run.log`](output/spark_submit/run.log).
-Pasted here for the report:
-
-```text
-<replaced by Sulaiman after running spark-submit on the cluster — see CLUSTER_RUN.md>
-```
